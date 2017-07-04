@@ -20,6 +20,10 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    lintOptions {
+        abortOnError false
+    }
+
 
 }
 
@@ -42,8 +46,8 @@ publish {
     userOrg = 'wujinli'
     groupId = 'com.wjl.networkcall'
     artifactId = 'networkcall'
-    version = '1.0.0'
+    version = '1.0.2'
     description = 'networkcall'
-    website = "https://github.com/novoda/${rootProject.name}"
+    website = "https://github.com/WuJinLi/networkcall_retrofit"
 }
 

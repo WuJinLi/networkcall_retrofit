@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/NetWorkCall_RE.iml" filepath="$PROJECT_DIR$/NetWorkCall_RE.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/networkcall/networkcall.iml" filepath="$PROJECT_DIR$/networkcall/networkcall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/networkcall_retrofit.iml" filepath="$PROJECT_DIR$/networkcall_retrofit.iml" />
     </modules>
   </component>
 </project>

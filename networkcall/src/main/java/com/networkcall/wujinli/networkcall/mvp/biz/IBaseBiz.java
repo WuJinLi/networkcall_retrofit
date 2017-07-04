@@ -1,6 +1,7 @@
 package com.networkcall.wujinli.networkcall.mvp.biz;
 
-import com.retrofitnetworkframe.wujinli.retrofitclient.mvp.bean.ApiResponse;
+
+import com.networkcall.wujinli.networkcall.mvp.bean.ApiResponse;
 
 import java.util.Map;
 

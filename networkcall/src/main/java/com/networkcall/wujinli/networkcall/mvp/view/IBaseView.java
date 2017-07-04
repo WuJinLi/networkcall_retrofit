@@ -2,7 +2,7 @@ package com.networkcall.wujinli.networkcall.mvp.view;
 
 import android.content.Context;
 
-import com.retrofitnetworkframe.wujinli.retrofitclient.mvp.bean.ApiResponse;
+import com.networkcall.wujinli.networkcall.mvp.bean.ApiResponse;
 
 
 /**

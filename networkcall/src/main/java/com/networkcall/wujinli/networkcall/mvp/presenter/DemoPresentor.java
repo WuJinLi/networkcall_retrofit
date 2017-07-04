@@ -1,8 +1,9 @@
 package com.networkcall.wujinli.networkcall.mvp.presenter;
 
 
-import com.retrofitnetworkframe.wujinli.retrofitclient.mvp.biz.IBaseBiz;
-import com.retrofitnetworkframe.wujinli.retrofitclient.mvp.view.IBaseView;
+
+import com.networkcall.wujinli.networkcall.mvp.biz.IBaseBiz;
+import com.networkcall.wujinli.networkcall.mvp.view.IBaseView;
 
 import retrofit2.Retrofit;
 
